@@ -6526,6 +6526,14 @@ let cards = [
     author: 'Marion',
     githubLink: 'https://github.com/marionjudy13'
   },
+  {
+    artName: 'IDK',
+    pageLink: './Art/suave97/index.html',
+    imageLink: './Art/suave97/SUAVE.gif',
+    author: 'suave97',
+    githubLink: 'https://github.com/suave97'
+  },
+  
 ];
 
 // +--------------------------------------------------------------------------------+
